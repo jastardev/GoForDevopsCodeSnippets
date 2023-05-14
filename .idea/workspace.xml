@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="630b5bef-64ae-440c-b01a-8aebc6723342" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/RPC/REST/client/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPC/REST/server/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPC/gRPC/client/client.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPC/gRPC/internal/qotd.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPC/gRPC/internal/server/server.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPC/gRPC/proto/buf.gen.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPC/gRPC/proto/buf.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPC/gRPC/proto/qotd.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PAZIhgcKCvDaJtvLhom2DtcfNT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "/Users/jacobastar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CommonDataFormats/interactingWithExcel/summarizing" />
+      <recent name="$PROJECT_DIR$/CommonDataFormats/CSV/encoding-csv-package" />
+      <recent name="$PROJECT_DIR$/CommonDataFormats/CSV/ReadInLineByLine" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/RPC/gRPC/internal" />
+      <recent name="$PROJECT_DIR$/RPC/gRPC/proto" />
+      <recent name="$PROJECT_DIR$/RPC/REST/client" />
+      <recent name="$PROJECT_DIR$/CommonDataFormats/CSV/encoding-csv-package/readingLineByLine" />
+      <recent name="$PROJECT_DIR$/CommonDataFormats/CSV/ReadInWholeFile" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build GoForDevOps/RPC/gRPC/internal">
+    <configuration name="go build GoForDevOps/CommonDataFormats/CSV/encoding-csv-package/writingLineByLine" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoForDevOps" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="GoForDevOps/CommonDataFormats/CSV/encoding-csv-package/writingLineByLine" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/CommonDataFormats/CSV/encoding-csv-package/writingLineByLine/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build GoForDevOps/CommonDataFormats/interactingWithExcel/creatingAnExcelFile" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoForDevOps" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="GoForDevOps/CommonDataFormats/interactingWithExcel/creatingAnExcelFile" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/CommonDataFormats/interactingWithExcel/creatingAnExcelFile/creatingAFile.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build GoForDevOps/RPC/REST/client" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoForDevOps" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="GoForDevOps/RPC/REST/client" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/RPC/REST/client/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build GoForDevOps/RPC/REST/server" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoForDevOps" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="GoForDevOps/RPC/REST/server" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/RPC/REST/server/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build GoForDevOps/RPC/gRPC/internal" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoForDevOps" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="GoForDevOps/RPC/gRPC/internal" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/RPC/gRPC/internal/qotd.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build GoForDevOps/RPC/gRPC/internal" />
+        <item itemvalue="Go Build.go build GoForDevOps/RPC/REST/client" />
+        <item itemvalue="Go Build.go build GoForDevOps/RPC/REST/server" />
+        <item itemvalue="Go Build.go build GoForDevOps/CommonDataFormats/interactingWithExcel/creatingAnExcelFile" />
+        <item itemvalue="Go Build.go build GoForDevOps/CommonDataFormats/CSV/encoding-csv-package/writingLineByLine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
