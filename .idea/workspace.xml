@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="630b5bef-64ae-440c-b01a-8aebc6723342" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CLI/inputFromStdIn/inputFromStdIn.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CLI/usingFlag/basic/usingFlagBasic.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CLI/usingFlag/basicErrorHanding/basicErrorHandling.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CLI/usingFlag/customType/usingFlagCustomType.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CLI/usingFlag/shorthandFlags/shorthandFlags.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CLI/usingFlag/usingNonFlagArgs/useNonFlagArgs.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLI/handingOSSignals/manuallyhandlingOSSignals/handingOSSignals.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLI/handingOSSignals/usingContextToCancel/usingContextToCancel.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLI/usingCobra/cmd/root.go" beforeDir="false" afterPath="$PROJECT_DIR$/CLI/usingCobra/cmd/root.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLI/usingCobra/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/CLI/usingCobra/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPC/REST/server/restServer.go" beforeDir="false" afterPath="$PROJECT_DIR$/RPC/REST/server/restServer.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,14 +57,14 @@
       <recent name="$PROJECT_DIR$/CommonDataFormats/CSV/ReadInLineByLine" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CLI/handingOSSignals/manuallyhandlingOSSignals" />
       <recent name="$PROJECT_DIR$/CLI/usingFlag/basic" />
       <recent name="$PROJECT_DIR$/RPC/gRPC/internal" />
       <recent name="$PROJECT_DIR$/RPC/gRPC/proto" />
       <recent name="$PROJECT_DIR$/RPC/REST/client" />
-      <recent name="$PROJECT_DIR$/CommonDataFormats/CSV/encoding-csv-package/readingLineByLine" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build GoForDevOps/CLI/usingFlag/basicErrorHanding">
+  <component name="RunManager" selected="Go Build.go build GoForDevOps/RPC/gRPC/internal">
     <configuration name="go build GoForDevOps/CLI/usingFlag/basicErrorHanding" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoForDevOps" />
       <working_directory value="$PROJECT_DIR$" />
@@ -113,10 +112,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build GoForDevOps/CLI/usingFlag/basicErrorHanding" />
         <item itemvalue="Go Build.go build GoForDevOps/RPC/gRPC/internal" />
         <item itemvalue="Go Build.go build GoForDevOps/RPC/REST/client" />
         <item itemvalue="Go Build.go build GoForDevOps/RPC/REST/server" />
+        <item itemvalue="Go Build.go build GoForDevOps/CLI/usingFlag/basicErrorHanding" />
         <item itemvalue="Go Build.go build GoForDevOps/CommonDataFormats/interactingWithExcel/creatingAnExcelFile" />
       </list>
     </recent_temporary>
