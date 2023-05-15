@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="630b5bef-64ae-440c-b01a-8aebc6723342" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/RPC/REST/client/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RPC/REST/server/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RPC/gRPC/client/client.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RPC/gRPC/internal/qotd.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RPC/gRPC/internal/server/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RPC/gRPC/proto/buf.gen.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RPC/gRPC/proto/buf.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RPC/gRPC/proto/qotd.proto" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLI/inputFromStdIn/inputFromStdIn.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLI/usingFlag/basic/usingFlagBasic.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLI/usingFlag/basicErrorHanding/basicErrorHandling.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLI/usingFlag/customType/usingFlagCustomType.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLI/usingFlag/shorthandFlags/shorthandFlags.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLI/usingFlag/usingNonFlagArgs/useNonFlagArgs.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,20 +37,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultGoTemplateProperty": "Go File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "go.import.settings.migrated": "true",
-    "last_opened_file_path": "/Users/jacobastar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jacobastar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/CommonDataFormats/interactingWithExcel/summarizing" />
@@ -61,21 +58,21 @@
       <recent name="$PROJECT_DIR$/CommonDataFormats/CSV/ReadInLineByLine" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CLI/usingFlag/basic" />
       <recent name="$PROJECT_DIR$/RPC/gRPC/internal" />
       <recent name="$PROJECT_DIR$/RPC/gRPC/proto" />
       <recent name="$PROJECT_DIR$/RPC/REST/client" />
       <recent name="$PROJECT_DIR$/CommonDataFormats/CSV/encoding-csv-package/readingLineByLine" />
-      <recent name="$PROJECT_DIR$/CommonDataFormats/CSV/ReadInWholeFile" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build GoForDevOps/RPC/gRPC/internal">
-    <configuration name="go build GoForDevOps/CommonDataFormats/CSV/encoding-csv-package/writingLineByLine" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build GoForDevOps/CLI/usingFlag/basicErrorHanding">
+    <configuration name="go build GoForDevOps/CLI/usingFlag/basicErrorHanding" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoForDevOps" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="GoForDevOps/CommonDataFormats/CSV/encoding-csv-package/writingLineByLine" />
+      <package value="GoForDevOps/CLI/usingFlag/basicErrorHanding" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/CommonDataFormats/CSV/encoding-csv-package/writingLineByLine/main.go" />
+      <filePath value="$PROJECT_DIR$/CLI/usingFlag/basicErrorHanding/basicErrorHandling.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build GoForDevOps/CommonDataFormats/interactingWithExcel/creatingAnExcelFile" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -116,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build GoForDevOps/CLI/usingFlag/basicErrorHanding" />
         <item itemvalue="Go Build.go build GoForDevOps/RPC/gRPC/internal" />
         <item itemvalue="Go Build.go build GoForDevOps/RPC/REST/client" />
         <item itemvalue="Go Build.go build GoForDevOps/RPC/REST/server" />
         <item itemvalue="Go Build.go build GoForDevOps/CommonDataFormats/interactingWithExcel/creatingAnExcelFile" />
-        <item itemvalue="Go Build.go build GoForDevOps/CommonDataFormats/CSV/encoding-csv-package/writingLineByLine" />
       </list>
     </recent_temporary>
   </component>
